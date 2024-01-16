@@ -17,7 +17,6 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-postcss": "^2.10.0",
-    "autoprefixer": "^10.4.16",
     "parcel": "^2.10.3",
     "postcss": "^8.4.31",
     "postcss-import": "^15.1.0",
